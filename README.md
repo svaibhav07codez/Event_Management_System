@@ -1,5 +1,5 @@
 # Mini_Project_Sem6
-About Authors: This is a mini project done by a group of 3 people studying CS in college as part of their course assignment.
+About Authors: This is a mini project done by a group of 3 students studying Computer Science as part of their course assignment.
 
 Topic: Event Management System
 
