@@ -4,12 +4,19 @@ About Authors: This is a mini project done by a group of 3 people studying CS in
 Topic: Event Management System
 
 Contents:
+
    This repository contains-
+   
    -> SRS Document for our project
+   
    -> Use Case document
+   
    -> Conceptual class and Domain model
+   
    -> Interaction diagram
+   
    -> State Chart diagram
+   
    -> Package diagram and Component Diagram
    
    -> Implementation using HTML, CSS, PHP
