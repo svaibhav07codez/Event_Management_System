@@ -17,6 +17,6 @@ Contents:
    
       -> Package diagram and Component Diagram
    
-      -> Implementation using HTML, CSS, PHP
+      -> Implementation using HTML, CSS, PHP, SQL
       
 
