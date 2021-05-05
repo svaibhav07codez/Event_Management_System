@@ -1,0 +1,42 @@
+#bg_index{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-size:30px;
+}
+
+.row{
+    margin: 20px 0px;
+}
+#login_btn, #logout_btn{
+    margin: 0px 20px;
+}
+
+
+.movie_pic{
+    height: 300px;
+    width: 300px;
+}
+
+.center {
+    padding: 300px 0;
+    text-align: center;
+  }
+
+.title{
+        font-family: verdana;
+        font-weight: 500px;
+        text-shadow: 0 0 50px #FF0000, 0 0 50px #0000FF;
+
+}
+
+#footer{
+    background-color: #111010;
+    width:100%;
+}
+
+#booked{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400px;
+    text-shadow: 0 0 50px #FF0000, 0 0 50px #0000FF;
+
+}
